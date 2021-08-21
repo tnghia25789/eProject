@@ -1,0 +1,71 @@
+
+.hea {
+    height: 4.7rem;
+}
+.carousel img{
+    width: 100%;
+}
+.heaa {
+    height: 2rem;
+}
+.image {
+    width: 100%;
+    /* padding: 1.5rem; */
+    border-radius: 5%;
+    display: block;
+    margin: auto;
+}
+
+.image:hover {
+    /* width: 95%; */
+    /* padding: 1.5rem; */
+    border: solid lightgray medium;
+    border-radius: 5%;
+    display: block;
+    margin: auto;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.divimage {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.box,
+.box2 {
+    margin-left: 2rem;
+}
+
+.so {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+
+}
+
+.btn-top {
+    bottom: 20px;
+    cursor: pointer;
+    padding: 0;
+    position: fixed;
+    right: 20px;
+    z-index: 9999;
+}
+
+.fa-arrow-circle-up {
+    font-size: 3.5rem;
+    color: green;
+}
+
+.padding {
+    width: 90%;
+}
+
+.page-header {
+    margin-bottom: 50px;
+}
+
+.modal-body img {
+    width: 100%;
+}

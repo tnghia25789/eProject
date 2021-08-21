@@ -1,0 +1,121 @@
+.hea {
+    height: 4.7rem;
+}
+.carousel img{
+    width: 100%;
+}
+.heaa {
+    height: 2rem;
+}
+
+.page-header{
+    margin-bottom: 20px;
+}
+
+.image {
+    width: 72%;
+    padding: 1rem;
+    border: solid lightgray medium;
+    display: block;
+    margin: auto;
+}
+
+.image:hover {
+    width: 70%;
+    padding: 1rem;
+    border: solid gray medium;
+    display: block;
+    margin: auto;
+    box-shadow: grey 1rem 1rem 1rem;
+    border-radius: 3%;
+
+}
+
+.divimage {
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.check input,.box input,.box2 input{
+    transform: scale(1.5);
+    margin-right: 10px;
+    
+}
+
+.check{
+    font-weight: bold;
+    font-size: x-large;
+}
+.check:hover{
+    color: brown;
+}
+
+.checkbox:hover{
+    color: chocolate;
+}
+
+.box,
+.box2 {
+    margin-left: 2rem;
+    font-size: x-large;
+}
+.check input:checked+span{
+    color: brown;
+}
+.checkbox input:checked+span{
+    color: chocolate;
+}
+.modal-content img {
+    width: 100%;
+}
+.modal-lg{
+    min-width: 60%;
+}
+
+.cata {
+    padding-left: 4%;
+    padding-right: 5px;
+    font-size: 2rem;
+    margin-top: 50px;
+}
+.ten{
+    color: brown;
+    margin-left: 1rem;
+    font-size: 2rem;
+    /* font-weight: bold; */
+    text-shadow: 1px 1px 2px grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.btn-top {
+    bottom: 20px;
+    cursor: pointer;
+    padding: 0;
+    position: fixed;
+    right: 20px;
+    z-index: 9999;
+}
+.fa-arrow-circle-up{
+    font-size: 3.5rem;
+    color:green;
+}
+.modal-body{
+    font-size: 1.2rem;
+}
+.modal-body b{
+    color: brown;
+    font-size: 1.5rem;
+}
+.modal-body i{
+    color: brown;
+    font-weight: bold;
+}
+.modal-body .ngh{
+    font-style: italic;
+    font
+    
+}
+section{
+    margin-bottom: 80px;
+}
